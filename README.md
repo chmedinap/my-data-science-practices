@@ -5,5 +5,3 @@ Para ver los desafíos presentados pueden ir a aquí : https://github.com/chmedi
 
 <h2> Contenido: </h2> 
 - Numpy (1-3)
-
-<h2> :nerd_face:  Understating the API.</h2>
